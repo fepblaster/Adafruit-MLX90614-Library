@@ -17,7 +17,7 @@
  ****************************************************/
  
 #if defined(SPARK)
- #include "Adafruit_MPL3115A2.h"
+ #include "Adafruit_MLX90614.h"
 #else
  #include <Wire.h>
  #include <Adafruit_MLX90614.h>
